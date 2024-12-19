@@ -1,0 +1,6 @@
+[
+    {
+        "question": "What is AWS resource tags and how are they used?",
+        "answer": "It is a key value piar that can be used to create a consistenent naming convention for thing such as EC2 instances"
+    }
+]
